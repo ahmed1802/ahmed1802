@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I’m Ahmed 👋🏻
 
-<!--
-**ahmed1802/ahmed1802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Student | Junior Full Stack Developer  
+🔬 Exploring Attacking tools and Linux
+🧠 Obsessed with Cybersecurity and learning new tech
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Languages:** JavaScript, Python, C , Dart , Swift 
+**Frameworks:** React, Node.js, Flutter , SwiftUI
+**Tools:** Visual Studio Code, Xcode , Git, Docker , Firebase
+**Currently exploring:** Next.js ,Nmap , Metasploit , Hydra
+
+---
+
+## 🔮 Future Plans
+
+- Cybersecurity: Networking , Web attacks
+- Backend: More Node.js, MangoDB
+- App Dev: More Swift
+
+---
+
+## 🚀 Projects
+
+### 🌌🎆  Portfolio Night Code
+A modern, customizable portfolio website to showcase your projects and experience.
+
+### 🥈💻  Hackathon Project
+A modern website with integrated AI chat , sleek and friendly design , built to motivate learning new langauges.
+
+### 📱 App Projects
+
+Soon....
+
+---
+
+## 🌐 Connect with Me
+
+💬 Discord: 7m1d4_0 
+💼 LinkedIn: [linkedin.com/in/ahmed-allali](https://www.linkedin.com/in/ahmed-allali-98242a251/)
