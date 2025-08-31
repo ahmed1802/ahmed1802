@@ -39,5 +39,5 @@ Soon....
 
 ## 🌐 Connect with Me   
 
-💬 Discord: 7m1d4_0 
+💬 Discord: 7m1d4_0     
 💼 LinkedIn: [linkedin.com/in/ahmed-allali](https://www.linkedin.com/in/ahmed-allali-98242a251/)
