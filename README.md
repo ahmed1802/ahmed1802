@@ -11,7 +11,7 @@
 **Languages:** JavaScript, Python, C , Dart , Swift    
 **Frameworks:** React, Node.js, Flutter , SwiftUI  
 **Tools:** Visual Studio Code, Xcode , Git, Docker , Firebase  
-**Currently exploring:** Next.js ,Nmap , Metasploit , Hydra  
+**Currently Learning:** Next.js ,Nmap , Metasploit , Hydra  
 
 ---
 
